@@ -28,7 +28,7 @@ export default function App2(params) {
                
                {/* PAGINAS */}
                 <div className="col-sm-3">
-
+                    
                 </div> 
             </div>
         </div>
