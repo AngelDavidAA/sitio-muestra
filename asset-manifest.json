@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.6c289ca3.chunk.js",
-    "main.js.map": "/static/js/main.6c289ca3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.32cebdb6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.32cebdb6.js.map",
-    "static/js/2.13f0ae20.chunk.js": "/static/js/2.13f0ae20.chunk.js",
-    "static/js/2.13f0ae20.chunk.js.map": "/static/js/2.13f0ae20.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.13f0ae20.chunk.js.LICENSE.txt": "/static/js/2.13f0ae20.chunk.js.LICENSE.txt"
+    "main.js": "/sitio-muestra/static/js/main.6c289ca3.chunk.js",
+    "main.js.map": "/sitio-muestra/static/js/main.6c289ca3.chunk.js.map",
+    "runtime-main.js": "/sitio-muestra/static/js/runtime-main.e3bdfcb8.js",
+    "runtime-main.js.map": "/sitio-muestra/static/js/runtime-main.e3bdfcb8.js.map",
+    "static/js/2.13f0ae20.chunk.js": "/sitio-muestra/static/js/2.13f0ae20.chunk.js",
+    "static/js/2.13f0ae20.chunk.js.map": "/sitio-muestra/static/js/2.13f0ae20.chunk.js.map",
+    "index.html": "/sitio-muestra/index.html",
+    "static/js/2.13f0ae20.chunk.js.LICENSE.txt": "/sitio-muestra/static/js/2.13f0ae20.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32cebdb6.js",
+    "static/js/runtime-main.e3bdfcb8.js",
     "static/js/2.13f0ae20.chunk.js",
     "static/js/main.6c289ca3.chunk.js"
   ]
